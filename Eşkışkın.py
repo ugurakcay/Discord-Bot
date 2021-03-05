@@ -34,4 +34,4 @@ async def cm(ctx):
 
 
 
-bot.run("ODE0NTQyODkxMzIxNTI0MjM1.YDfYLg.mPoivCakz6mIYihtD5L49AqjJIs")
+bot.run("TOKEN")
